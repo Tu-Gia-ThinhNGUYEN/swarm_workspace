@@ -1,3 +1,6 @@
 [submodule "swarm_choosestation"]
 	path = swarm_choosestation
 	url = https://github.com/Tu-Gia-ThinhNGUYEN/swarm_choosestation.git
+[submodule "swarm_pathfinding"]
+	path = swarm_pathfinding
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/swarm_pathfinding.git
