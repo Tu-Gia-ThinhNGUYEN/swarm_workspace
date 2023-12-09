@@ -13,3 +13,6 @@
 [submodule "srv_client_plugin"]
 	path = srv_client_plugin
 	url = git@github.com:Tu-Gia-ThinhNGUYEN/srv_client_plugin.git
+[submodule "swarm_descriptions"]
+	path = swarm_descriptions
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/swarm_descriptions.git
