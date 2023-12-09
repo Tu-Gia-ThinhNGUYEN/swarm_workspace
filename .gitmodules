@@ -7,3 +7,6 @@
 [submodule "swarm_navigation"]
 	path = swarm_navigation
 	url = git@github.com:Tu-Gia-ThinhNGUYEN/swarm_navigation.git
+[submodule "pp_msgs"]
+	path = pp_msgs
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/pp_msgs.git
