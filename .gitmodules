@@ -4,3 +4,6 @@
 [submodule "swarm_pathfinding"]
 	path = swarm_pathfinding
 	url = git@github.com:Tu-Gia-ThinhNGUYEN/swarm_pathfinding.git
+[submodule "swarm_navigation"]
+	path = swarm_navigation
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/swarm_navigation.git
