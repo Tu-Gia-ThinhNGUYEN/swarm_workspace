@@ -16,3 +16,6 @@
 [submodule "swarm_descriptions"]
 	path = swarm_descriptions
 	url = git@github.com:Tu-Gia-ThinhNGUYEN/swarm_descriptions.git
+[submodule "swarm_gazebo"]
+	path = swarm_gazebo
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/swarm_gazebo.git
