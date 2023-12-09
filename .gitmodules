@@ -10,3 +10,6 @@
 [submodule "pp_msgs"]
 	path = pp_msgs
 	url = git@github.com:Tu-Gia-ThinhNGUYEN/pp_msgs.git
+[submodule "srv_client_plugin"]
+	path = srv_client_plugin
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/srv_client_plugin.git
